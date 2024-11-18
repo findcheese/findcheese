@@ -1,4 +1,4 @@
-<img src="https://github.com/findcheese/findcheese/blob/main/main.png" width="1280" height="680">
+<img src="https://github.com/findcheese/findcheese/blob/main/main.png" width="1500" height="680">
 
 
 <p align="left">
