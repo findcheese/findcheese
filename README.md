@@ -1,5 +1,6 @@
-<img src="https://github.com/findcheese/findcheese/blob/main/main.png" width="100%" height="auto">
+<img src="https://github.com/findcheese/findcheese/blob/main/main1.png" width="100%" height="auto">
 
+<h3 align="center"> 월간 차트 </h3>
 
 
 <p align="center">
